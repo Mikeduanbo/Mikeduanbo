@@ -2,7 +2,7 @@
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=radical)
 
-- 🌱 I’m currently learning  YOLO, focusing on PyThon3. 
+- 🌱 I’m currently learning  YOLO、CNN, focusing on PyThon3. 
 - 🎓   Currently pursuing a Master's degree in Vehicle Engineering at Dalian University of Technology.
 - ⚡ Enjoys reading novels and writing essays in leisure time.
 <!--
