@@ -2,8 +2,9 @@
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=radical)
 
-
-
+- 🌱 I’m currently learning  YOLO, focusing on PyThon3. 
+- 🎓   Currently pursuing a Master's degree in Vehicle Engineering at Dalian University of Technology.
+- ⚡ Enjoys reading novels and writing essays in leisure time.
 <!--
 **Mikeduanbo/Mikeduanbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
