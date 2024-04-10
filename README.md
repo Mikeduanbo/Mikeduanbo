@@ -5,6 +5,12 @@
 - 🌱 I’m currently learning  YOLO、CNN, focusing on PyThon3. 
 - 🎓   Currently pursuing a Master's degree in Vehicle Engineering at Dalian University of Technology.
 - ⚡ Enjoys reading novels and writing essays in leisure time.
+
+
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--
 **Mikeduanbo/Mikeduanbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
